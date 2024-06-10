@@ -15,5 +15,7 @@ namespace CarProControl.Data
         }
 
         public DbSet<CarProControl.Models.Veiculo> Veiculo { get; set; }
+
+        public DbSet<CarProControl.Models.Funcionario> Funcionario { get; set; }
     }
 }

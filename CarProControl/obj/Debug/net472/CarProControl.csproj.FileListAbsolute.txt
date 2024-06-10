@@ -179,3 +179,9 @@ C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\V
 C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\Views\Veiculos\Details.cshtml.g.cs
 C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\Views\Veiculos\Edit.cshtml.g.cs
 C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\Views\Veiculos\Index.cshtml.g.cs
+C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\CarProControl.sourcelink.json
+C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\Views\Funcionarios\Create.cshtml.g.cs
+C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\Views\Funcionarios\Delete.cshtml.g.cs
+C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\Views\Funcionarios\Details.cshtml.g.cs
+C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\Views\Funcionarios\Edit.cshtml.g.cs
+C:\Users\pedro\source\repos\CarProControl\CarProControl\obj\Debug\net472\Razor\Views\Funcionarios\Index.cshtml.g.cs

@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarProControl")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d365f8cee961c05e61fa0ef6a8dbcdf39112677")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarProControl.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
