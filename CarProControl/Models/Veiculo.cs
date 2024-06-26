@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace CarProControl.Models
 {
@@ -17,5 +18,26 @@ namespace CarProControl.Models
 
         [Display(Name = "Propietario do Veiculo")]  
         public string Propietario { get; set; }
+
+        public ICollection<OrdemServico> OrdensServico { get; set;} = new List<OrdemServico>();
+
+
+        public Veiculo()
+        {
+        }
+
+        public Veiculo(int id, int ano, string modelo, string placa, string propietario)
+        {
+            Id = id;
+            Ano = ano;
+            Modelo = modelo;
+            Placa = placa;
+            Propietario = propietario;
+        }
+
+        public void AddOrdemServiço(OrdemServico ordemServico)
+        {
+            OrdensServico.Add(ordemServico);
+        }
     }
 }

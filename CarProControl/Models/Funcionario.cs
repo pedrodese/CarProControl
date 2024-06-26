@@ -13,7 +13,7 @@ namespace CarProControl.Models
         public string Nome { get; set; }
 
         [Display(Name = "Salario do Funcionario")]
-        [DisplayFormat(DataFormatString = "${0:F2}")]
+        [DisplayFormat(DataFormatString = "R${0:F2}")]
         public double Salario { get; set; }
     }
 }

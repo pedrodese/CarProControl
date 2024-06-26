@@ -7,9 +7,9 @@
 <h2>Lista de Veiculos</h2>
 
 <p>
-    <a asp-action="Create">Cadastrar </a>
+    <a class=" btn btn-success" asp-action="Create">Cadastrar </a>
 </p>
-<table class="table">
+<table class="table table-bordered table-hover">
     <thead>
         <tr>
             <th>
@@ -29,7 +29,7 @@
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
+        <tr class="active">
             <td>
                 @Html.DisplayFor(modelItem => item.Ano)
             </td>
@@ -42,10 +42,10 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Propietario)
             </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+            <td >
+                <a class="btn btn-default" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a class="btn btn-default" asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
             </td>
         </tr>
 }

@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\CarProControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\models\\ordemservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\models\\ordemservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\migrations\\20240610223500_secundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\migrations\\20240610223500_secundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\controllers\\ordemservicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\controllers\\ordemservicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\data\\carprocontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\data\\carprocontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\migrations\\20240625232504_outrasentidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\migrations\\20240625232504_outrasentidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\views\\veiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\views\\veiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|c:\\users\\pedro\\source\\repos\\carprocontrol\\carprocontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4F7AC3-B374-4A93-BADE-F2189CF98D35}|CarProControl\\CarProControl.csproj|solutionrelative:carprocontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Views\\Funcionarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "CarProControl\\Views\\Funcionarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Views\\Funcionarios\\Index.cshtml",
-              "RelativeToolTip": "CarProControl\\Views\\Funcionarios\\Index.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarProControl\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarProControl\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T22:40:28.542Z"
+              "WhenOpened": "2024-06-26T00:03:51.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FuncionariosController.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Controllers\\FuncionariosController.cs",
-              "RelativeDocumentMoniker": "CarProControl\\Controllers\\FuncionariosController.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Controllers\\FuncionariosController.cs",
-              "RelativeToolTip": "CarProControl\\Controllers\\FuncionariosController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Startup.cs",
+              "RelativeDocumentMoniker": "CarProControl\\Startup.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Startup.cs",
+              "RelativeToolTip": "CarProControl\\Startup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:36:25.321Z"
+              "WhenOpened": "2024-06-26T00:03:40.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20240610223500_secundary.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Migrations\\20240610223500_secundary.cs",
-              "RelativeDocumentMoniker": "CarProControl\\Migrations\\20240610223500_secundary.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Migrations\\20240610223500_secundary.cs",
-              "RelativeToolTip": "CarProControl\\Migrations\\20240610223500_secundary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "OrdemServicosController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Controllers\\OrdemServicosController.cs",
+              "RelativeDocumentMoniker": "CarProControl\\Controllers\\OrdemServicosController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Controllers\\OrdemServicosController.cs",
+              "RelativeToolTip": "CarProControl\\Controllers\\OrdemServicosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:35:01.179Z"
+              "WhenOpened": "2024-06-26T00:03:02.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Models\\Funcionario.cs",
-              "RelativeDocumentMoniker": "CarProControl\\Models\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Models\\Funcionario.cs",
-              "RelativeToolTip": "CarProControl\\Models\\Funcionario.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "20240625232504_OutrasEntidades.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Migrations\\20240625232504_OutrasEntidades.cs",
+              "RelativeDocumentMoniker": "CarProControl\\Migrations\\20240625232504_OutrasEntidades.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Migrations\\20240625232504_OutrasEntidades.cs",
+              "RelativeToolTip": "CarProControl\\Migrations\\20240625232504_OutrasEntidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:31:58.528Z",
+              "WhenOpened": "2024-06-25T23:25:05.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CarProControlContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Data\\CarProControlContext.cs",
+              "RelativeDocumentMoniker": "CarProControl\\Data\\CarProControlContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Data\\CarProControlContext.cs",
+              "RelativeToolTip": "CarProControl\\Data\\CarProControlContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:18:53.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Models\\Veiculo.cs",
               "RelativeDocumentMoniker": "CarProControl\\Models\\Veiculo.cs",
               "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Models\\Veiculo.cs",
               "RelativeToolTip": "CarProControl\\Models\\Veiculo.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBEAAAAzAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:43:26.501Z"
+              "WhenOpened": "2024-06-24T22:35:21.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Views\\Veiculos\\Index.cshtml",
-              "RelativeDocumentMoniker": "CarProControl\\Views\\Veiculos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Views\\Veiculos\\Index.cshtml",
-              "RelativeToolTip": "CarProControl\\Views\\Veiculos\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T18:14:56.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VeiculosController.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Controllers\\VeiculosController.cs",
-              "RelativeDocumentMoniker": "CarProControl\\Controllers\\VeiculosController.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Controllers\\VeiculosController.cs",
-              "RelativeToolTip": "CarProControl\\Controllers\\VeiculosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "DocumentIndex": 0,
+              "Title": "OrdemServico.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Models\\OrdemServico.cs",
+              "RelativeDocumentMoniker": "CarProControl\\Models\\OrdemServico.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Models\\OrdemServico.cs",
+              "RelativeToolTip": "CarProControl\\Models\\OrdemServico.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:51:59.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CarProControl\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarProControl\\CarProControl\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CarProControl\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:41:20.706Z"
+              "WhenOpened": "2024-06-24T22:20:58.765Z",
+              "EditorCaption": ""
             }
           ]
         }

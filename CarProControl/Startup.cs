@@ -62,7 +62,7 @@ namespace CarProControl
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Veiculos}/{action=Index}/{id?}");
             });
         }
     }
